@@ -6,21 +6,21 @@ Dashboard untuk VIsualisasi Data menggunakan library "streamlit" python
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/preview.png)
+![Bike Sharing Dashboard Streamlit Preview]([https://github.com/indiranindha/Dashboard_DataAnalysis/blob/521897f628fa785d04d6edc34b4479052a0afbc7/preview.png])
 
 ## Project Analisis Data
 
-Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
+Repository ini berisi proyek data analytics untuk assignment Dicoding course. Deployment in **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
 ## Deskripsi
 
-Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis.
+Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan adalah memperdalam wawasan terkait data analysis with python baik dari segi theory maupun practical.
 
 ## Struktur Direktori
 
-- **/data**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
-- **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
-- **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
+- **/bike**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
+- **/Dashboard**: Direktori ini berisi dashboard.py yang merupakan file hasil analisis data dengan streamlit.
+- **Proyek_Analisis_Data.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
 
@@ -49,6 +49,3 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
 
-## Review
-berikut merupakan penilaian dari Dicoding
-![Bike Sharing Dashboard Review](https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/Penilaian%20dari%20dicoding.png)
