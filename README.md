@@ -6,7 +6,7 @@ Dashboard untuk VIsualisasi Data menggunakan library "streamlit" python
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview]([https://github.com/indiranindha/Dashboard_DataAnalysis/blob/521897f628fa785d04d6edc34b4479052a0afbc7/preview.png])
+![Bike Sharing Dashboard Streamlit Preview]((https://github.com/indiranindha/Dashboard_DataAnalysis/blob/main/preview.png))
 
 ## Project Analisis Data
 
