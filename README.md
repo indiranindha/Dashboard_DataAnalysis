@@ -18,8 +18,8 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
 ## Struktur Direktori
 
-- **/bike**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
-- **/Dashboard**: Direktori ini berisi dashboard.py yang merupakan file hasil analisis data dengan streamlit.
+- **/bike**: Direktori ini berisi dataset yang digunakan dalam proyek, dalam format .csv .
+- **/Dashboard**: Direktori ini berisi Dashboard_Bikeshare.py yang merupakan file hasil analisis data dengan streamlit.
 - **Proyek_Analisis_Data.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
@@ -41,8 +41,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Masuk ke direktori proyek (Local):
 
     ```shell
-    cd bike-sharing/dashboard/
-    streamlit run dashboard.py
+    streamlit run Dashboard_Bikeshare.py
     ```
     Atau bisa dengan kunjungi website ini [Project Analisis Data](http://localhost:8501/#daily-sharing)
 
